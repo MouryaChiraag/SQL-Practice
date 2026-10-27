@@ -2,7 +2,7 @@
 
 ## 📌 About
 
-This repository contains SQL practice, assignments, exercises, and projects completed as part of my Data Analytics training at AnalytixLabs.
+This repository contains SQL practice, assignments, exercises, and projects completed as part of my Data Analytics.
 
 It serves as a record of my coursework, practical implementations, and solutions developed during the training program.
 
@@ -53,7 +53,7 @@ The repository will be updated throughout the course and may include:
 
   ## 📌 Note
 
-This repository contains my own implementations and solutions based on concepts learned during the AnalytixLabs Data Analytics with Agentic and Generative AI program.
+This repository contains my own implementations and solutions based on concepts learned during the Data Analytics program.
 
 ---
 
